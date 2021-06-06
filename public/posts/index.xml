@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - My Website</title>
+        <link>https://stevenkorvin.com/posts/</link>
+        <description>All Posts | My Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 06 Jun 2021 01:07:48 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>https://stevenkorvin.com/posts/first_post/</link>
+    <pubDate>Sun, 06 Jun 2021 01:07:48 -0400</pubDate>
+    <author>Author</author>
+    <guid>https://stevenkorvin.com/posts/first_post/</guid>
+    <description><![CDATA[I wasn&rsquo;t into paying Squarespace to maintain a website, so I went with GitHub Pages and Hugo! It seems like it&rsquo;ll work. I already have a personal domain.
+I had a very productive day on Friday. I was told that I &ldquo;looked very relaxed&rdquo; after completing my tasks that day. I need productive days more often and in order to experience them, I&rsquo;m going to apply for a job after this summer job with school will be over.]]></description>
+</item></channel>
+</rss>

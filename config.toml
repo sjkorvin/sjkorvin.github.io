@@ -1,0 +1,73 @@
+baseURL = "https://stevenkorvin.com"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+title = "My Website"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "uBlogger"
+
+[params]
+  # uBlogger theme version
+  version = "2.0.X"
+  
+	[params.app]  
+  
+	# modern SVG favicon to use in place of older style .png and .ico files
+    svgFavicon = "/favicon.svg"
+	
+	# uBlogger NEW | 0.2.0 Search config
+  [params.search]
+    enable = true
+    # type of search engine ("lunr", "algolia")
+    type = "lunr"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    # uBlogger NEW | 0.2.1 max number of results length
+    maxResultLength = 10
+    # uBlogger NEW | 0.2.3 snippet length of the result
+    snippetLength = 30
+    # uBlogger NEW | 0.2.1 HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # uBlogger NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration
+    noClasses = false
+	
