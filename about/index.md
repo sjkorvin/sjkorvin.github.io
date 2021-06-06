@@ -2,7 +2,7 @@
 
 Other links where you can find me:
 
-YourAcclaim: https://www.youracclaim.com/users/steven-korvin/badges
+Credly: https://www.credly.com/users/steven-korvin/badges
 
 PentesterLab : https://pentesterlab.com/profile/skorvin
 
@@ -26,6 +26,6 @@ StackExchange: https://stackexchange.com/users/16594105/steven-korvin?tab:accoun
 
 Kaggle: https://www.kaggle.com/stevenkorvin
 
-Sourceforge: https://sourceforge.net/skorvin
+Sourceforge: https://sourceforge.net/u/skorvin/profile
 
 Thingiverse: https://thingiverse.com/skorvin
