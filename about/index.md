@@ -21,7 +21,7 @@ Other links where you can find me:
 
 [HackerOne](https://hackerone.com/skorvin)
 
-[Bugcrowd ](https://bugcrowd.com/skorvin) (Unavailable until I have one submission)
+[Bugcrowd](https://bugcrowd.com/skorvin) (Unavailable until I have one submission)
 
 [Intigriti](https://app.intigriti.com/researcher/profile/skorvin)
 
