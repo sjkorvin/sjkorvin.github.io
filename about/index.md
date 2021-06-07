@@ -23,7 +23,7 @@ Bugcrowd (Unavailable until I have one submission): https://bugcrowd.com/skorvin
 
 Intigriti: https://app.intigriti.com/researcher/profile/skorvin
 
-StackExchange: https://stackexchange.com/users/16594105/steven-korvin?tab:accounts
+Stack Exchange: https://stackexchange.com/users/16594105/steven-korvin?tab:accounts
 
 Kaggle: https://www.kaggle.com/stevenkorvin
 
