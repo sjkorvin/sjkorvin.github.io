@@ -3,7 +3,7 @@
 
 Other links where you can find me:
 
-Credly: https://www.credly.com/users/steven-korvin/badges
+Credly: https://www.credly.com/users/skorvin/badges
 
 PentesterLab : https://pentesterlab.com/profile/skorvin
 
@@ -30,3 +30,5 @@ Kaggle: https://www.kaggle.com/stevenkorvin
 Sourceforge: https://sourceforge.net/u/skorvin/profile
 
 Thingiverse: https://thingiverse.com/skorvin
+
+Hackster.io: https://hackster.io/skorvin
