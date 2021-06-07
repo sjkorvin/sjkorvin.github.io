@@ -19,7 +19,7 @@ HackerRank: https://www.hackerrank.com/skorvin?hr_r:1
 
 HackerOne: https://hackerone.com/skorvin
 
-BugCrowd: https://bugcrowd.com/skorvin
+Bugcrowd (Unavailable until I have one submission): https://bugcrowd.com/skorvin
 
 Intigriti: https://app.intigriti.com/researcher/profile/skorvin
 
