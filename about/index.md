@@ -32,3 +32,5 @@ Sourceforge: https://sourceforge.net/u/skorvin/profile
 Thingiverse: https://thingiverse.com/skorvin
 
 Hackster.io: https://hackster.io/skorvin
+
+Skype: skype:stevenkorvin
