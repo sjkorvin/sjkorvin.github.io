@@ -3,34 +3,38 @@
 
 Other links where you can find me:
 
-Credly: https://www.credly.com/users/skorvin/badges
+[Credly](https://www.credly.com/users/skorvin/badges)
 
-PentesterLab : https://pentesterlab.com/profile/skorvin
+[PentesterLab](https://pentesterlab.com/profile/skorvin)
 
-HackTheBox: https://www.hackthebox.eu/profile/178492
+[HackTheBox](https://www.hackthebox.eu/profile/178492)
 
-TryHackMe: https://tryhackme.com/p/skorvin
+[TryHackMe](https://tryhackme.com/p/skorvin)
 
-WeChall: https://www.wechall.net/profile/skorvin
+[WeChall](https://www.wechall.net/profile/skorvin)
 
-Codecademy: https://www.codecademy.com/profiles/skorvin
+[Codecademy](https://www.codecademy.com/profiles/skorvin)
 
-HackerRank: https://www.hackerrank.com/skorvin?hr_r:1
+[HackerRank](https://www.hackerrank.com/skorvin?hr_r:1)
 
-HackerOne: https://hackerone.com/skorvin
+[FreeCodeCamp](https://www.freecodecamp.com/skorvin)
 
-Bugcrowd (Unavailable until I have one submission): https://bugcrowd.com/skorvin
+[HackerOne](https://hackerone.com/skorvin)
 
-Intigriti: https://app.intigriti.com/researcher/profile/skorvin
+[Bugcrowd ](https://bugcrowd.com/skorvin) (Unavailable until I have one submission)
 
-Stack Exchange: https://stackexchange.com/users/16594105/steven-korvin?tab:accounts
+[Intigriti](https://app.intigriti.com/researcher/profile/skorvin)
 
-Kaggle: https://www.kaggle.com/stevenkorvin
+[Stack Exchange](https://stackexchange.com/users/16594105/steven-korvin?tab:accounts)
 
-Sourceforge: https://sourceforge.net/u/skorvin/profile
+[Kaggle](https://www.kaggle.com/stevenkorvin)
 
-Thingiverse: https://thingiverse.com/skorvin
+[Sourceforge](https://sourceforge.net/u/skorvin/profile)
 
-Hackster.io: https://hackster.io/skorvin
+[Thingiverse](https://thingiverse.com/skorvin)
 
-Skype: skype:stevenkorvin
+[Hackster.io](https://hackster.io/skorvin)
+
+[GitHub Gist](https://gist.github.com/sjkorvin)
+
+[Skype](skype:stevenkorvin)
