@@ -27,7 +27,7 @@ Other links where you can find me:
 
 [Intigriti](https://app.intigriti.com/researcher/profile/skorvin)
 
-[Stack Exchange](https://stackexchange.com/users/16594105/steven-korvin?tab:accounts)
+[Stack Exchange](https://stackexchange.com/users/16594105/steven-korvin?tab=accounts)
 
 [Kaggle](https://www.kaggle.com/stevenkorvin)
 
