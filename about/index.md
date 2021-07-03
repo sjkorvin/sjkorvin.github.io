@@ -11,6 +11,8 @@ Other links where you can find me:
 
 [TryHackMe](https://tryhackme.com/p/skorvin)
 
+[Root-Me](https://www.root-me.org/skorvin?inc=info&lang=en)
+
 [WeChall](https://www.wechall.net/profile/skorvin)
 
 [Codecademy](https://www.codecademy.com/profiles/skorvin)

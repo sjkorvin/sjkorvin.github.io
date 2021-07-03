@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My Website</title>
-        <link>https://stevenkorvin.com/</link>
-        <description>This is my personal website.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Jul 2021 01:48:15 -0400</lastBuildDate>
-            <atom:link href="https://stevenkorvin.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>school - Tag - My Website</title>
+        <link>https://stevenkorvin.com/tags/school/</link>
+        <description>school - Tag - My Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Jul 2021 01:48:15 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/tags/school/" rel="self" type="application/rss+xml" /><item>
     <title>Things Are Continuing</title>
     <link>https://stevenkorvin.com/things-are-continuing/</link>
     <pubDate>Sat, 03 Jul 2021 01:48:15 -0400</pubDate>
