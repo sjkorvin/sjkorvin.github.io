@@ -1,7 +1,7 @@
 # About
 
 
-Other links where you can find me:
+# Other places where you can find me:
 
 [Credly](https://www.credly.com/users/skorvin/badges)
 
