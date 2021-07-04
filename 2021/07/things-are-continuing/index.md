@@ -8,5 +8,3 @@ I'll be leaving the Electric Vehicle Conversion project for a month to participa
 Last Thursday, the team working on the other project that I participated in last year at Bergen Community, the Ethical Hacking project, presented. They did an excellent job. I'll probably get a chance to be a student intern again next summer. If the project will still be running, then I think that I'd like to rejoin it while continuing working on the Electric Vehicle Conversion project. This summer, I had to relax and prepare for the competition.
 
 Starting on July 6th, I'll be participating in a mini-course provided by Bergen Community College named Introduction to COBOL Programming and System Z. July through mid-August will be busy for me!
-
-On a sidenote, it looks like the uBlogger Hugo theme no longer exists. If so, expect changes to this site soon!
