@@ -1,4 +1,4 @@
 # Resume
 
 
-{{< figure src="/images/resume.jpg" title="" >}}
+{{< figure src="/images/resume.jpg" title="Resume" >}}
