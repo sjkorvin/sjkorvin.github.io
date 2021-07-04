@@ -5,8 +5,6 @@
 
 [Credly](https://www.credly.com/users/skorvin/badges)
 
-[PentesterLab](https://pentesterlab.com/profile/skorvin)
-
 [HackTheBox](https://www.hackthebox.eu/profile/178492)
 
 [TryHackMe](https://tryhackme.com/p/skorvin)
@@ -27,6 +25,10 @@
 
 [Intigriti](https://app.intigriti.com/researcher/profile/skorvin)
 
+[PentesterLab](https://pentesterlab.com/profile/skorvin)
+
+[Stack Overflow](https://stackoverflow.com/users/11991456/steven-korvin)
+
 [Stack Exchange](https://stackexchange.com/users/16594105/steven-korvin?tab=accounts)
 
 [Kaggle](https://www.kaggle.com/stevenkorvin)
@@ -39,4 +41,18 @@
 
 [GitHub Gist](https://gist.github.com/sjkorvin)
 
+[Dev.to](https://dev.to/sjkorvin)
+
+[Daily.dev](https://app.daily.dev/skorvin)
+
+[CodePen](https://codepen.io/skorvin)
+
+[JSFiddle](https://jsfiddle.net/user/skorvin)
+
+[SlideShare](https://www.slideshare.net/StevenKorvin)
+
 [Skype](skype:stevenkorvin)
+
+[Matrix](https://matrix.to/#/@skorvin:matrix.org)
+
+Disclaimer: This is everywhere where I WANT you to be able to find me. Obviously, I exist elsewhere online. If you bring up profiles of mine other than the ones linked to on this page and this website's homepage, I will ignore them.
