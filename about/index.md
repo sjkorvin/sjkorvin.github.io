@@ -5,6 +5,8 @@
 
 [Hashnode Blog](https://hashnode.stevenkorvin.com)
 
+[Hashnode](https://hashnode.com/@skorvin/)
+
 [Credly](https://credly.com/users/skorvin/badges)
 
 [HackTheBox](https://hackthebox.eu/profile/178492)
