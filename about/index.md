@@ -3,23 +3,23 @@
 
 # Other places where you can find me:
 
-[Hashnode Blog](hashnode.stevenkorvin.com)
+[Hashnode Blog](https://hashnode.stevenkorvin.com)
 
-[Credly](https://www.credly.com/users/skorvin/badges)
+[Credly](https://credly.com/users/skorvin/badges)
 
-[HackTheBox](https://www.hackthebox.eu/profile/178492)
+[HackTheBox](https://hackthebox.eu/profile/178492)
 
 [TryHackMe](https://tryhackme.com/p/skorvin)
 
-[Root-Me](https://www.root-me.org/skorvin?inc=info&lang=en)
+[Root-Me](https://root-me.org/skorvin?inc=info&lang=en)
 
-[WeChall](https://www.wechall.net/profile/skorvin)
+[WeChall](https://wechall.net/profile/skorvin)
 
-[Codecademy](https://www.codecademy.com/profiles/skorvin)
+[Codecademy](https://codecademy.com/profiles/skorvin)
 
-[HackerRank](https://www.hackerrank.com/skorvin?hr_r:1)
+[HackerRank](https://hackerrank.com/skorvin?hr_r:1)
 
-[FreeCodeCamp](https://www.freecodecamp.com/skorvin)
+[FreeCodeCamp](https://freecodecamp.com/skorvin)
 
 [HackerOne](https://hackerone.com/skorvin)
 
