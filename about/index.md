@@ -7,6 +7,8 @@
 
 [Hashnode](https://hashnode.com/@skorvin/)
 
+[Trello](https://trello.com/stevenkorvin)
+
 [Credly](https://credly.com/users/skorvin/badges)
 
 [HackTheBox](https://hackthebox.eu/profile/178492)
