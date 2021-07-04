@@ -11,7 +11,9 @@
 
 [TryHackMe](https://tryhackme.com/p/skorvin)
 
-[Root-Me](https://root-me.org/skorvin?inc=info&lang=en)
+[Root-Me](https://root-me.org/sjkorvin?inc=info&lang=en)
+
+[RingZer0 Online CTF](https://ringzer0ctf.com/profile/34282/skorvin)
 
 [WeChall](https://wechall.net/profile/skorvin)
 
