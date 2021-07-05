@@ -57,6 +57,8 @@
 
 [Daily.dev](https://app.daily.dev/skorvin)
 
+[PyPI](https://pypi.org/user/skorvin/)
+
 [CodePen](https://codepen.io/skorvin)
 
 [JSFiddle](https://jsfiddle.net/user/skorvin)
