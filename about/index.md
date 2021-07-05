@@ -61,7 +61,7 @@
 
 [PyPI](https://pypi.org/user/skorvin/)
 
-[npm](https://www.npmjs.com/~stevenjk)
+[npm](https://npmjs.com/~skorvin)
 
 [Read the Docs](https://readthedocs.org/profiles/skorvin/)
 
@@ -69,7 +69,7 @@
 
 [JSFiddle](https://jsfiddle.net/user/skorvin)
 
-[SlideShare](https://www.slideshare.net/StevenKorvin)
+[SlideShare](https://slideshare.net/StevenKorvin)
 
 [Skype](skype:stevenkorvin)
 
