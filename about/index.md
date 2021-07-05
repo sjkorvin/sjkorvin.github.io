@@ -57,7 +57,13 @@
 
 [Daily.dev](https://app.daily.dev/skorvin)
 
+[Docker Hub](https://hub.docker.com/u/sjkorvin)
+
 [PyPI](https://pypi.org/user/skorvin/)
+
+[npm](https://www.npmjs.com/~stevenjk)
+
+[Read the Docs](https://readthedocs.org/profiles/skorvin/)
 
 [CodePen](https://codepen.io/skorvin)
 
