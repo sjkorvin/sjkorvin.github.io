@@ -39,7 +39,11 @@
 
 [Stack Exchange](https://stackexchange.com/users/16594105/steven-korvin?tab=accounts)
 
-[Kaggle](https://www.kaggle.com/stevenkorvin)
+[Code Project](https://codeproject.com/Members/skorvin)
+
+[Kaggle](https://kaggle.com/stevenkorvin)
+
+[AlternativeTo](https://alternativeto.net/user/skorvin/)
 
 [Sourceforge](https://sourceforge.net/u/skorvin/profile)
 
