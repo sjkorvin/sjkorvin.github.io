@@ -71,6 +71,10 @@
 
 [SlideShare](https://slideshare.net/StevenKorvin)
 
+[Telegram](https://t.me/skorvin)
+
+[Messenger](https://m.me/sjkorvin)
+
 [Skype](skype:stevenkorvin)
 
 [Matrix](https://matrix.to/#/@skorvin:matrix.org)
