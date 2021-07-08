@@ -75,6 +75,8 @@
 
 [Messenger](https://m.me/sjkorvin)
 
+[Discord](https://discordapp.com/users/451051008815136778)
+
 [Skype](skype:stevenkorvin)
 
 [Matrix](https://matrix.to/#/@skorvin:matrix.org)
