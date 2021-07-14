@@ -87,4 +87,6 @@
 
 [PixelFed](https://pixelfed.social/skorvin)
 
+[MyFlightBook Public Flights](https://myflightbook.com/logbook/public/myflights.aspx?uid=l90DRDps%2FsiuX0RJvCVnO3UTp6VJv3jr4DzJfK%2FlIs8%3D)
+
 Disclaimer: This is everywhere where I WANT you to be able to find me. Obviously, I exist elsewhere online. If you bring up profiles of mine other than the ones linked to on this page and this website's homepage, I will ignore them.
