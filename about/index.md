@@ -81,4 +81,6 @@
 
 [Matrix](https://matrix.to/#/@skorvin:matrix.org)
 
+[PixelFed](https://pixelfed.social/skorvin)
+
 Disclaimer: This is everywhere where I WANT you to be able to find me. Obviously, I exist elsewhere online. If you bring up profiles of mine other than the ones linked to on this page and this website's homepage, I will ignore them.
