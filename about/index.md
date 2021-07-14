@@ -51,6 +51,8 @@
 
 [Hackster.io](https://hackster.io/skorvin)
 
+[Hackaday.io](https://hackaday.io/skorvin)
+
 [Altium CircuitMaker](https://workspace.circuitmaker.com/User/Details/skorvin)
 
 [GitHub Gist](https://gist.github.com/sjkorvin)
