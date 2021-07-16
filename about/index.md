@@ -85,8 +85,6 @@
 
 [SlideShare](https://slideshare.net/StevenKorvin)
 
-[Telegram](https://t.me/skorvin)
-
 [Messenger](https://m.me/sjkorvin)
 
 [Discord](https://discordapp.com/users/451051008815136778)
