@@ -23,9 +23,17 @@
 
 [Codecademy](https://codecademy.com/profiles/skorvin)
 
+[Sololearn](https://www.sololearn.com/profile/15100797)
+
 [HackerRank](https://hackerrank.com/skorvin?hr_r:1)
 
 [FreeCodeCamp](https://freecodecamp.com/skorvin)
+
+[Jovian](https://jovian.ai/skorvin/overview)
+
+[GeeksforGeeks](https://auth.geeksforgeeks.org/user/stevenjkorvin/)
+
+[CodeChef](https://www.codechef.com/users/skorvin/)
 
 [HackerOne](https://hackerone.com/skorvin)
 
@@ -89,4 +97,4 @@
 
 [MyFlightBook Public Flights](https://myflightbook.com/logbook/public/myflights.aspx?uid=l90DRDps%2FsiuX0RJvCVnO3UTp6VJv3jr4DzJfK%2FlIs8%3D)
 
-Disclaimer: This is everywhere where I WANT you to be able to find me. Obviously, I exist elsewhere online. If you bring up profiles of mine other than the ones linked to on this page and this website's homepage, I will ignore them.
+Disclaimer: This is everywhere where I WANT you to be able to find me. Obviously, I exist elsewhere online, whether I maintain my accounts or not. Some of the platforms where I exist elsewhere are very overwhelming for me and I do not want a public presence on them. If you bring up profiles of mine other than the ones linked to on this page and this website's homepage, I will ignore them.
