@@ -75,6 +75,8 @@
 
 [npm](https://npmjs.com/~skorvin)
 
+[Crowdin](https://crowdin.com/profile/skorvin)
+
 [Read the Docs](https://readthedocs.org/profiles/skorvin/)
 
 [CodePen](https://codepen.io/skorvin)
