@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>progress on </title>
+    <title>progress on Steven Korvin&#39;s Website</title>
     <link>https://stevenkorvin.com/tags/progress/</link>
-    <description>Recent content in progress on </description>
+    <description>Recent content in progress on Steven Korvin&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>2020-{{ YEAR }}</copyright>
     <lastBuildDate>Fri, 30 Jul 2021 03:13:31 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/tags/progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EVC Project Photographs</title>

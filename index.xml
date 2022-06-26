@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Steven Korvin&#39;s Website</title>
     <link>https://stevenkorvin.com/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Steven Korvin&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>2020-{{ YEAR }}</copyright>
     <lastBuildDate>Sun, 26 Jun 2022 06:04:13 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy</title>
@@ -15,9 +14,7 @@
       
       <guid>https://stevenkorvin.com/privacy/</guid>
       
-        <description>This site uses Google Analytics for enhanced tracking. Additionally, this site makes use of Google Recaptcha.
-This site is hosted on GitHub and comments are provided by Utterances, which creates comments through GitHub issues. Thus, this site assumes GitHub&amp;rsquo;s privacy policy.
-This site&amp;rsquo;s domain, stevenkorvin.com, is registered on Gandi. Please see Gandi&amp;rsquo;s privacy policy if you have any questions about Gandi&amp;rsquo;s handling of user privacy and data. I have connected various services to my domain using Gandi.</description>
+        <description>This site uses Google Analytics for enhanced tracking. Additionally, this site makes use of Google Recaptcha.</description>
       
     </item>
     
@@ -72,7 +69,7 @@ This site&amp;rsquo;s domain, stevenkorvin.com, is registered on Gandi. Please s
       
       <guid>https://stevenkorvin.com/about/</guid>
       
-        <description>I&amp;rsquo;m always looking to learn more and to do better. I hope to soon obtain a private pilot certificate and French citizenship through citizenship by descent. </description>
+        <description>I&amp;rsquo;m always looking to learn more and to do better. I hope to soon obtain a private pilot certificate and French citizenship through citizenship by descent.</description>
       
     </item>
     
