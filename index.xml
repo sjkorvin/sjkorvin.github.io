@@ -9,6 +9,17 @@
     <copyright>2021-{{ YEAR }}</copyright>
     <lastBuildDate>Fri, 30 Jul 2021 03:13:31 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact</title>
+      <link>https://stevenkorvin.com/contact/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevenkorvin.com/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
       <title>EVC Project Photographs</title>
       <link>https://stevenkorvin.com/post/evc-project-photographs/</link>
       <pubDate>Fri, 30 Jul 2021 03:13:31 -0400</pubDate>
