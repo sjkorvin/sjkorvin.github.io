@@ -2,8 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My website</title>
-    <link>/categories/</link>
+    <link>https://stevenkorvin.com/categories/</link>
     <description>Recent content in Categories on My website</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Jul 2021 03:13:31 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen Community College</title>
+      <link>https://stevenkorvin.com/categories/bergen-community-college/</link>
+      <pubDate>Fri, 30 Jul 2021 03:13:31 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/categories/bergen-community-college/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Electric Vehicle Conversion project</title>
+      <link>https://stevenkorvin.com/categories/electric-vehicle-conversion-project/</link>
+      <pubDate>Fri, 30 Jul 2021 03:13:31 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/categories/electric-vehicle-conversion-project/</guid>
+      
+        <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

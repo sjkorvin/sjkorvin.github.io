@@ -2,8 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My website</title>
-    <link>/</link>
+    <link>https://stevenkorvin.com/</link>
     <description>Recent content on My website</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Jul 2021 03:13:31 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EVC Project Photographs</title>
+      <link>https://stevenkorvin.com/posts/evc-project-photographs/</link>
+      <pubDate>Fri, 30 Jul 2021 03:13:31 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/posts/evc-project-photographs/</guid>
+      
+        <description>I tried to make photographs of the Electric Vehicle Conversion project look snazzy in the uBlogger Hugo theme. I&amp;rsquo;m just going to direct you to an album in my PixelFed account instead: http://link.stevenkorvin.com/PG8kwp</description>
+      
+    </item>
+    
+    <item>
+      <title>Public Key</title>
+      <link>https://stevenkorvin.com/publickey/</link>
+      <pubDate>Sat, 03 Jul 2021 19:36:57 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/publickey/</guid>
+      
+        <description> </description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://stevenkorvin.com/about/</link>
+      <pubDate>Sun, 06 Jun 2021 21:44:49 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/about/</guid>
+      
+        <description>I&amp;rsquo;m always looking to learn more and to do better. I hope to soon obtain a private pilot certificate and French citizenship through citizenship by descent. </description>
+      
+    </item>
+    
   </channel>
 </rss>
