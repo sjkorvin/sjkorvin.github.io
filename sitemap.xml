@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stevenkorvin.com/categories/</loc>
+    <loc>https://sjkorvin.github.io/categories/</loc>
   </url><url>
-    <loc>https://stevenkorvin.com/series/</loc>
+    <loc>https://sjkorvin.github.io/series/</loc>
   </url><url>
-    <loc>https://stevenkorvin.com/</loc>
+    <loc>https://sjkorvin.github.io/</loc>
   </url><url>
-    <loc>https://stevenkorvin.com/tags/</loc>
+    <loc>https://sjkorvin.github.io/tags/</loc>
   </url>
 </urlset>
