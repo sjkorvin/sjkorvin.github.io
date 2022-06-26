@@ -14,7 +14,8 @@
       
       <guid>https://stevenkorvin.com/privacy/</guid>
       
-        <description>This site uses Google Analytics for enhanced tracking. Additionally, this site makes use of Google Recaptcha.</description>
+        <description>This site uses Google Analytics for enhanced tracking. Additionally, this site makes use of Google Recaptcha.
+This site is hosted on GitHub and comments are provided by Utterances, which creates comments through GitHub issues.</description>
       
     </item>
     
@@ -69,7 +70,7 @@
       
       <guid>https://stevenkorvin.com/about/</guid>
       
-        <description>I&amp;rsquo;m always looking to learn more and to do better. I hope to soon obtain a private pilot certificate and French citizenship through citizenship by descent.</description>
+        <description>I&amp;rsquo;m always looking to learn more and to do better. I hope to soon obtain a private pilot certificate and French citizenship through citizenship by descent. </description>
       
     </item>
     
