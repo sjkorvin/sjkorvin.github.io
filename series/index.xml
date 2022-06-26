@@ -6,6 +6,6 @@
     <description>Recent content in Series on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>2021-{{ YEAR }}</copyright><atom:link href="https://stevenkorvin.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2020-{{ YEAR }}</copyright><atom:link href="https://stevenkorvin.com/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
