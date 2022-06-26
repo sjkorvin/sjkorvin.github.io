@@ -9,6 +9,19 @@
     <copyright>2020-{{ YEAR }}</copyright>
     <lastBuildDate>Sun, 26 Jun 2022 06:04:13 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Privacy</title>
+      <link>https://stevenkorvin.com/privacy/</link>
+      <pubDate>Sun, 26 Jun 2022 10:35:10 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/privacy/</guid>
+      
+        <description>This site uses Google Analytics for enhanced tracking. Additionally, this site makes use of Google Recaptcha.
+This site is hosted on GitHub and comments are provided by Utterances, which creates comments through GitHub issues. Thus, this site assumes GitHub&amp;rsquo;s privacy policy.
+This site&amp;rsquo;s domain, stevenkorvin.com, is registered on Gandi. Please see Gandi&amp;rsquo;s privacy policy if you have any questions about Gandi&amp;rsquo;s handling of user privacy and data. I have connected various services to my domain using Gandi.</description>
+      
+    </item>
+    
+    <item>
       <title>Move to Anatole Theme</title>
       <link>https://stevenkorvin.com/post/move-to-anatole-theme/</link>
       <pubDate>Sun, 26 Jun 2022 06:04:13 -0400</pubDate>
