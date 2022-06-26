@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2021-{{ YEAR }}</copyright>
-    <lastBuildDate>Fri, 30 Jul 2021 03:13:31 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 06:04:13 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meta</title>
+      <link>https://stevenkorvin.com/categories/meta/</link>
+      <pubDate>Sun, 26 Jun 2022 06:04:13 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/categories/meta/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Bergen Community College</title>
       <link>https://stevenkorvin.com/categories/bergen-community-college/</link>

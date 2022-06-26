@@ -7,7 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2021-{{ YEAR }}</copyright>
-    <lastBuildDate>Fri, 30 Jul 2021 03:13:31 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 06:04:13 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://stevenkorvin.com/tags/hugo/</link>
+      <pubDate>Sun, 26 Jun 2022 06:04:13 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/tags/hugo/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>https://stevenkorvin.com/tags/site/</link>
+      <pubDate>Sun, 26 Jun 2022 06:04:13 -0400</pubDate>
+      
+      <guid>https://stevenkorvin.com/tags/site/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>progress</title>
       <link>https://stevenkorvin.com/tags/progress/</link>
