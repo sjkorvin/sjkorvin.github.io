@@ -14,14 +14,14 @@
       
       <guid>https://stevenkorvin.com/post/image-test/</guid>
       
-        <description>&lt;p&gt;This is a test of image embedding/Hugo shortcodes. &lt;img src=&#34;https://stevenkorvin.com/images/test/test.png&#34; alt=&#34;Smiley face drawn in Microsoft Paint&#34; title=&#34;Test Image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;+++
+        <description>&lt;p&gt;+++
 &amp;hellip;
 tags = [
 &amp;ldquo;thumbnail&amp;rdquo;,
 ]
 thumbnail= &amp;ldquo;images/test/test.png&amp;rdquo;
-+++&lt;/p&gt;
++++
+This is a test of image embedding/Hugo shortcodes. &lt;img src=&#34;https://stevenkorvin.com/images/test/test.png&#34; alt=&#34;Smiley face drawn in Microsoft Paint&#34; title=&#34;Test Image&#34;&gt;&lt;/p&gt;
 </description>
       
     </item>
