@@ -6,19 +6,7 @@
     <description>Recent content in Posts on Steven Korvin&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 20:07:39 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Image Test</title>
-      <link>https://stevenkorvin.com/post/image-test/</link>
-      <pubDate>Mon, 18 May 2026 20:07:39 -0400</pubDate>
-      
-      <guid>https://stevenkorvin.com/post/image-test/</guid>
-      
-        <description>&lt;p&gt;This is a test of image embedding/Hugo shortcodes. &lt;img src=&#34;https://stevenkorvin.com/images/test/test.png&#34; alt=&#34;Smiley face drawn in Microsoft Paint&#34; title=&#34;Test Image&#34;&gt;&lt;/p&gt;
-</description>
-      
-    </item>
-    
+    <lastBuildDate>Mon, 18 May 2026 19:45:57 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steps Foward</title>
       <link>https://stevenkorvin.com/post/steps-foward/</link>
